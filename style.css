@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+#Home{
+    background: linear-gradient(to bottom left,#FFE699,#FFF9B6,#FF9292,#FFCCD2);
+    height: 800px;
+
+}
+#jkr{
+    width:350px ;
+    height: 550px;
+    border-radius: 100px;
+    margin-top: 80px;
+}
+h2{
+    font-family: 'Dancing Script', cursive;
+}
+.menu{
+    list-style: none;
+    cursor: pointer;
+    right: 30px;
+    position: fixed;
+}
+.menuitem{
+    float: left;
+    padding: 5px 9px;
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+}
+.book:hover{
+    color:rgb(21, 2, 37) ;
+}
